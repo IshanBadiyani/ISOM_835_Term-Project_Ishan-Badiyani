@@ -24,8 +24,7 @@ This project uses the Telco Customer Churn dataset to build predictive models th
 - Git & GitHub
 
 ## Google Colab Notebooks
-- [EDA & Cleaning](https://colab.research.google.com/drive/1iSq63pRF4bh0DSejMZkqlhPyCKFR5k3R?usp=sharing)
-- [Modeling & Evaluation](#link2)
+- [Project - Telco Churn Dataset](https://colab.research.google.com/drive/1iSq63pRF4bh0DSejMZkqlhPyCKFR5k3R?usp=sharing)
 
 
 ## Visualizations
