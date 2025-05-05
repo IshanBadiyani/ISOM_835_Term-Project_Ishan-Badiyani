@@ -24,10 +24,9 @@ This project uses the Telco Customer Churn dataset to build predictive models th
 - Git & GitHub
 
 ## Google Colab Notebooks
-- [EDA & Cleaning](#https://colab.research.google.com/drive/1iSq63pRF4bh0DSejMZkqlhPyCKFR5k3R?usp=sharing)
+- [EDA & Cleaning](https://colab.research.google.com/drive/1iSq63pRF4bh0DSejMZkqlhPyCKFR5k3R?usp=sharing)
 - [Modeling & Evaluation](#link2)
 
-> (Replace `#link1` and `#link2` with actual Colab links after uploading.)
 
 ## Visualizations
 All plots and charts used in the report are located in the `visualizations/` folder.
