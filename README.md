@@ -31,7 +31,7 @@ This project uses the Telco Customer Churn dataset to build predictive models th
 All plots and charts used in the report are located in the `visualizations/` folder.
 
 ## Final Report
-The complete project report is available in the `report/` folder.
+The complete project report is available in the under the 'ISOM 836 - Final report' file.
 
 ## How to Run
 1. Open the Colab notebooks via the links above.
